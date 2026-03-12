@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "liveServer.settings.CustomBrowser": null
+}
